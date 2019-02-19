@@ -1,7 +1,7 @@
-//v1.4
+//v1.5
 jQuery(document).ready(function($){
   mode='color';
-  var ca = [];
+  var ca=[];
   function cc(){
     if(mode=='gray'){
       var base=Math.floor(Math.random()*255).toString(16);
